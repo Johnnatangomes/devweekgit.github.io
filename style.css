@@ -76,7 +76,8 @@
 }
 
 .experience-contents,
-.education-contents{
+.education-contents,
+.awards-contents{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
@@ -84,17 +85,26 @@
 }
 
 .experience-company-name,
-.education-school-name{
+.education-school-name,
+.awards-company-name{
     font-size: 25px;
     font-weight: bold;
     
 }
 .exp-position,
-.education-subject{
+.education-subject,
+.awards-name{
     font-size: 25px;
 }
+.education-time-period,
+.experience-time-period,
+.awards-time-period{
+    margin-left: 5px;
+
+}
 .exp-description,
-.education-desc{
+.education-desc,
+.awards-desc{
     font-size: 16px;
     padding-left: 5px;
 }
