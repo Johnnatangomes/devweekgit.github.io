@@ -57,18 +57,19 @@ body {
     padding-bottom: 1rem;
     
 }
-
-.contact-info ul li i{
-    padding: .3rem ;
+.contact-info ul li,
+.references ul li {
+    padding: .4rem 0;
     display: flex;
     justify-content: center;
-    color: #2E86C1;
+    color: #d6dbdfaf;
+    letter-spacing: 1px;
     font-size: 18px;
 }
 
 .skils ul li p{
     padding: .4rem 0;
-    color: #2E86C1;
+    color: #d6dbdfaf;
     font-size: 18px;
     display: flex;
     justify-content: center;
