@@ -19,5 +19,7 @@ Para você concorrer basta:<br>
 <p> 22 a 29 de novembro de 2022</p> <br>
 
 ## 🖥 <strong>Tecnologias</strong> <br>
+<div align="left">
 <img src= "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40" width="52" alt="html logo"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="40" width="52" alt="css logo"/>
+</div>
